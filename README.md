@@ -2,8 +2,8 @@
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=300&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Developer+of+Python+Library+and+Scrappy+Bot;Over+7+Years+of+Coding+Experience" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">Hey there, I'm <a href="https://github.com/MohsenSaroughi">Mohsen Saroughi</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<h2 align="center">Hey there, I'm <a href="https://github.com/MohsenSaroughi">Mohsen Saroughi</a></h2>
+<h3 align="center">Below are a few links you can visit and some stats to look at too</h3>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
