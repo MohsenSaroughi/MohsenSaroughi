@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![dev.to badge](https://img.shields.io/badge/linkedin-Mohsen-Saroughi-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohsen-saroughi)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohsen-saroughi)
+&nbsp;
 ![githubbadge](https://img.shields.io/github/followers/MohsenSaroughi?style=social)
 ![githubbadge](https://img.shields.io/github/stars/MohsenSaroughi?style=social)
 ![](https://komarev.com/ghpvc/?username=MohsenSaroughi&color=brightgreen&style=flat)
