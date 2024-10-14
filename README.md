@@ -1,101 +1,80 @@
-<h1 align="center">Hi 👋, I'm Mohsen Saroughi</h1>
+## Introduction
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=300&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Developer+of+Python+Library+and+Scrappy+Bot;Over+7+Years+of+Coding+Experience" alt="Typing SVG" /></a>
+</p>
+<h3 align="center">Hey there, I'm <a href="https://github.com/MohsenSaroughi">Mohsen Saroughi</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
-<!--
-Test
-**MohsenSaroughi/MohsenSaroughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![githubbadge](https://img.shields.io/github/followers/MohsenSaroughi?style=social)
 ![githubbadge](https://img.shields.io/github/stars/MohsenSaroughi?style=social)
+![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 ![](https://komarev.com/ghpvc/?username=MohsenSaroughi&color=brightgreen&style=flat)
 
-* My interested fields including: 
-    1. Artificial Intelligence
-    2. Machine Learning
-    3. Deep Learning
-    4. Optimization
-    5. Metaheuristics
-    6. Nature-inspired Computing
-    7. ...
 
-- 👨‍💻 All of my public projects are available 👉  [here](https://github.com/MohsenSaroughi?tab=repositories)
-- ✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en)
-<!--
-- 🌐 My website address **https://MohsenSaroughi.github.io/**
-- 📫 Looking for collaboration, contact me **https://www.telegram.me/ezraile**
--->
+## What I'm Doing
+- 🌱 Learning New Tools
+- 🌱 Doing Research Papers
+- 🌱 Reading Book, Papers, and etc.
+- 🌱 Watching New Tutorials
+- 🌱 For Getting Successfully, Just Do It
+
 
 ## :wrench: Favorite Languages and Tools
-
-
 **OS Preferences:**
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="linux"></code>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux"></code>
-</a>
-
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
 **Programming:**
+- **Language:**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-**• Language:**
-<a href="https://www.python.org/" target="_blank">
-    <code><img height="20" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="javascript"></code>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></code>
-</a>
-
-
-**• AI Frameworks:**
+- **AI Frameworks:**
 <a href="https://numpy.org/" target="_blank">
 	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank"><code>
-    <img height="30" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code></a>
+<a href="https://pandas.pydata.org/" target="_blank">
+	<code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
+</a>
 <a href="https://scikit-learn.org/" target="_blank">
-    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
+	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
 </a>
 <a href="https://www.tensorflow.org" target="_blank">
-    <code><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
+	<code><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 </a>
 <a href="https://keras.io/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras"></code>
 </a>
 <a href="https://pytorch.org/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code></a>
-
-
-**• Storage:**
-<a href="https://git-scm.com/" target="_blank">
-    <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code>
 </a>
 
 
-**• Database:**
-<a href="https://www.sqlite.org/" target="_blank">
-    <code><img height="20" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="mongodb"></code>
-</a>
+- **Version Control:**
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
----
+- **Database:**
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
