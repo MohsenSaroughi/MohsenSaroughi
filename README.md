@@ -36,25 +36,7 @@
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-- **AI Frameworks:**
-<a href="https://numpy.org/" target="_blank">
-	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-	<code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-	<code><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
-</a>
-<a href="https://keras.io/" target="_blank">
-	<code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras"></code>
-</a>
-<a href="https://pytorch.org/" target="_blank">
-	<code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code>
-</a>
+- **AI Frameworks:** <a href="https://numpy.org/" target="_blank"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code></a> * <a href="https://pandas.pydata.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code></a> * <a href="https://scikit-learn.org/" target="_blank"><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code></a> * <a href="https://www.tensorflow.org" target="_blank"><code><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code></a> * <a href="https://keras.io/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras"></code></a> * <a href="https://pytorch.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code></a>
 
 
 - **Version Control:**
@@ -65,16 +47,5 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+## Stats:
+<p align="left"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"> <a href="https://github.com/Thinkright20"> <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/> </a> </p>
