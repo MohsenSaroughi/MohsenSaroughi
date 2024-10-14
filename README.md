@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohsen-saroughi)
-&nbsp;
 ![githubbadge](https://img.shields.io/github/followers/MohsenSaroughi?style=social)
 ![githubbadge](https://img.shields.io/github/stars/MohsenSaroughi?style=social)
 ![](https://komarev.com/ghpvc/?username=MohsenSaroughi&color=brightgreen&style=flat)
@@ -32,9 +30,10 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my public projects are available 👉  [here](https://github.com/MohsenSaroughi?tab=repositories)
 - ✏️ Google Scholar profile: [here](https://scholar.google.com/citations?user=tJ8beTgAAAAJ&hl=en)
+<!--
 - 🌐 My website address **https://MohsenSaroughi.github.io/**
 - 📫 Looking for collaboration, contact me **https://www.telegram.me/ezraile**
-
+-->
 
 ## :wrench: Favorite Languages and Tools
 
