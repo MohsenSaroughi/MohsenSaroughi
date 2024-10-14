@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![dev.to badge](https://img.shields.io/badge/linkedin-mohsen-saroughi-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohsen-saroughi)
+[![dev.to badge](https://img.shields.io/badge/linkedin-thieu1995-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohsen-saroughi)
 ![githubbadge](https://img.shields.io/github/followers/MohsenSaroughi?style=social)
 ![githubbadge](https://img.shields.io/github/stars/MohsenSaroughi?style=social)
 ![](https://komarev.com/ghpvc/?username=MohsenSaroughi&color=brightgreen&style=flat)
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 **Programming:**
 
-    **• Language:**
+**• Language:**
 <a href="https://www.python.org/" target="_blank">
     <code><img height="20" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
 </a>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </a>
 
 
-    **• AI Frameworks:**
+**• AI Frameworks:**
 <a href="https://numpy.org/" target="_blank">
 	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
 </a>
@@ -83,18 +83,18 @@ Here are some ideas to get you started:
     <code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code></a>
 
 
-    **• Storage:**
+**• Storage:**
 <a href="https://git-scm.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
+    <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
 </a>
 
 
-    **• Database:**
+**• Database:**
 <a href="https://www.sqlite.org/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
+    <code><img height="20" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="mongodb"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="mongodb"></code>
 </a>
 
 ---
